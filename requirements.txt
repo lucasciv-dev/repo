@@ -1,0 +1,4 @@
+requests>=2.31
+beautifulsoup4>=4.12
+vaderSentiment>=3.3.2
+anthropic>=1.0  # only needed for --ai
